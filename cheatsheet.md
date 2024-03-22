@@ -1,3 +1,3 @@
- - When you do a search:
+ - When you do a word search:
     - **n** for going for the next occurrence
     - **N** for going for the previous ocurrence
