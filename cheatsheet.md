@@ -1,0 +1,3 @@
+ - When you do a search:
+    - **n** for going for the next occurrence
+    - **N** for going for the previous ocurrence
